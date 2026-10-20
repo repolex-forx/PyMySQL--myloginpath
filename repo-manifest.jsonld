@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyMySQL/myloginpath/commit/2dc7b2d23208a68e9b5278fdc53f5b01894bbe82",
       "git:hexsha": "2dc7b2d23208a68e9b5278fdc53f5b01894bbe82",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PyMySQL/myloginpath/commit/7040b9a6671bbd0a5cba9327f1f5ac75acd884a7",
